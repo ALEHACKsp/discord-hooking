@@ -1,7 +1,7 @@
 # discord-hooking
 A simple and easy to use hooking library weaponized through discord.
 
-This is only a PoC that was written in roughly an hour, so if you encounter any issues with the usage, please create an issue.
+This is a ugly PoC that was written in roughly an hour, so if you encounter any issues with the usage, please create an issue.
 
 # Information
 
